@@ -1,0 +1,23 @@
+{
+  "name": "smoothtilezoom",
+  "version": "1.0.0",
+  "description": "Smooth zoom calculations to stop popping while panning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metocean/smoothtilezoom.git"
+  },
+  "keywords": [
+    "tiles",
+    "zoom"
+  ],
+  "author": "Thomas Coats <t.coats@metocean.co.nz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metocean/smoothtilezoom/issues"
+  },
+  "homepage": "https://github.com/metocean/smoothtilezoom#readme"
+}
